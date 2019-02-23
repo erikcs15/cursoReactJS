@@ -39,7 +39,7 @@
   },
   "homepage": "https://github.com/erikcs15/cursoReactJS#readme",
   "dependencies": {
-    "react": "^16.8.3",
-    "react-dom": "^16.8.3"
+    "react": "16.8.3",
+    "react-dom": "16.8.3"
   }
 }

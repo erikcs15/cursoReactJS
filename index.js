@@ -5,7 +5,7 @@ import ReactDOM from 'react-dom';
 
 //ReactDOM.render(que voy a renderizar, donde lo haré);
 const app = document.getElementById('app');
-const holaMundo=<h1>Hola mundo</h1>; 
+const holaMundo=<h1>Hola Erik</h1>; 
 ReactDOM.render(holaMundo ,app);
 
 
